@@ -1,6 +1,6 @@
 ![](media/bulletz.png)
 
-🎉 __Open Source in celebration of 10k unique players!__ 🎉
+🎉 __Source available in celebration of 10k unique players!__ 🎉
 
 ![](media/gameplay.gif)
 
@@ -8,7 +8,7 @@
 
 ---
 
-[bulletz.io](https://bulletz.io) is an open source real time multiplayer 2D shooter.
+[bulletz.io](https://bulletz.io) is a real time multiplayer 2D shooter.
 The backend is written in the functional programming language Elixir.
 The game runs on a custom game engine that was written with fault tolerance in mind.
 Fault tolerance is achieved by leveraging erlang's OTP library to create error boundaries around each individual player, bullet, and powerup.
@@ -154,7 +154,7 @@ Tag @lukewood for a review.
 
 # License
 
-I open source [bulletz.io](https://bulletz.io) so that passionate users can shape the direction of [bulletz.io](https://bulletz.io). Luke Wood is still the sole owner of [bulletz.io](https://bulletz.io).
+I made [bulletz.io](https://bulletz.io) source available so that passionate users can shape the direction of [bulletz.io](https://bulletz.io). Luke Wood is still the sole owner of [bulletz.io](https://bulletz.io).
 
 More formal license:
 
